@@ -1,0 +1,2 @@
+# ROTTERDAM-HOUSE-PRICE-PREDICTION
+Netherlands is the seventh country for highest population density in Europe and the housing shortage problem here is putting major cities such as Rotterdam under pressure. These factors have made it difficult for Vietnamese students to find ‘comfortable’ housing in the country. Thus, the aim of the project is to research the application of ML in predicting the rental prices of accommodations in Rotterdam, using infrastructure facts (e.g. surface area, number of rooms) and convenience factors (e.g. number of supermarkets in the area).
